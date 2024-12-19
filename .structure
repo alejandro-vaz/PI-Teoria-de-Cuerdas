@@ -1,46 +1,75 @@
-Project
-├── step-0 = 14/01/2025
-├── step-1 = 14/01/2025
-├── step-2 = 13/01/2025
-├── step-3 = 12/01/2025
-└── step-4 = 11/01/2025
+Teoría de cuerdas
+├── step-0 = 07/01/2025
+├── step-1 = 06/01/2025
+├── step-2 = 05/01/2025
+├── step-3 = 04/01/2025
+└── step-4 = 03/01/2025
 
 
-project.pdf
-├── front_page.pdf
+teoria-de-cuerdas.pdf
+├── front-page.pdf
 └── main.pdf
     └── main.md
         └── main.fmd
-            ├── index.fmd (#index)
-            ├── introduction.fmd (#introduction)
-            └── conclusion.fmd (#conclusion)
+            ├── 01:índice.fmd (#índice)
+            ├── 02:introducción.fmd (#introducción)
+            ├── 03:situación-inicial.fmd (#situación-inicial)
+            ├── 04:el-modelo-estándar.fmd (#el-modelo-estándar)
+            ├── 05:gravedad.fmd (#gravedad)
+            ├── 06:nuevas-teorías.fmd (#nuevas-teorías)
+            ├── 07:la-teoría-de-cuerdas.fmd (#la-teoría-de-cuerdas)
+            ├── 08:problemas.fmd (#problemas)
+            ├── 09:números-complejos.fmd (#números-complejos)
+            ├── 10:conclusión.fmd (#conclusión)
+            └── 11:bibliografía.fmd (#bibliografía)
+
+teoria-de-cuerdas.pdf
+├── Índice (#índice)
+├── Introducción (#introducción)
+│   ├── Resumen (#resumen)
+│   └── Objetivos (#objetivos)
+├── Situación inicial (#situación-inicial)
+├── El Modelo estándar (#el-modelo-estándar)
+│   ├── Qué es (#qué-es)
+│   └── Limitaciones (#limitaciones)
+├── Gravedad (#gravedad)
+│   ├── A gran escala (#a-gran-escala)
+│   └── El gravitón (#el-gravitón)
+├── Nuevas teorías (#nuevas-teorías)
+|   ├── Supergravedad (#supergravedad)
+|   ├── Teoría de cuerdas (#teoría-de-cuerdas)
+|   └── Derivados de la teoría de cuerdas (#derivados-de-la-teoría-de-cuerdas)
+├── La teoría de cuerdas (#la-teoría-de-cuerdas)
+|   ├── Las cuerdas (#las-cuerdas)
+|   ├── Predicción del gravitón (#predicción-del-gravitón)
+|   └── Interacciones (#interacciones)
+├── Problemas (#problemas)
+|   ├── Bosones (#bosones)
+|   ├── Dimensiones (#dimensiones)
+|   └── Taquiones (#taquiones)
+├── Números complejos (#números-complejos)
+|   ├── Conjuntos numéricos (#conjuntos-numéricos)
+|   ├── Operaciones aritméticas (#operaciones-aritméticas)
+|   ├── Módulo y conjugado (#módulo-y-conjugado)
+|   └── Representación gráfica (#representación-gráfica)
+├── Conclusión (#conclusión)
+└── Bibliografía (#bibliografía)
 
 
-project.pdf
-├── Index (#index)
-├── Introduction (#introduction)
-│   ├── Development (#development)
-│   └── Summary (#summary)
-└── Conclusion (#conclusion)
-
-
-https://github.com/user/project/tree/main/
+https://github.com/alejandro-vaz/PI-Teoria-de-Cuerdas/tree/main/
 ├── .git
 ├── .structure
 ├── step-0/
 │   ├── .todo
-│   └── project.pdf
+│   └── teoría-de-cuerdas.pdf
 ├── step-1/
 │   ├── .todo
-│   ├── front_page.pdf
+│   ├── front-page.pdf
 │   └── main.pdf
 ├── step-2/
 │   ├── .todo
 │   ├── main.md
 │   └── images/
-│       ├── 1.png
-│       ├── 2.png
-│       ├── 3.png
 │       └── jpegtopng.py
 ├── step-3/
 │   ├── .todo
@@ -48,7 +77,14 @@ https://github.com/user/project/tree/main/
 │   └── fmdcompiler.py
 └── step-4/
     ├── .todo
-    ├── index.fmd
-    ├── introduction.fmd
-    └── conclusion.fmd
-
+    ├── 01:índice.fmd
+    ├── 02:introducción.fmd
+    ├── 03:situación-inicial.fmd
+    ├── 04:el-modelo-estándar.fmd
+    ├── 05:gravedad.fmd
+    ├── 06:nuevas-teorías.fmd
+    ├── 07:la-teoría-de-cuerdas.fmd
+    ├── 08:problemas.fmd
+    ├── 09:números-complejos.fmd
+    ├── 10:conclusión.fmd
+    └── 11.bibliografía.fmd
