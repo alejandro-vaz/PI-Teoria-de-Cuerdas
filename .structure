@@ -11,17 +11,18 @@ teoria-de-cuerdas.pdf
 └── main.pdf
     └── main.md
         └── main.fmd
-            ├── 01:índice.fmd (#índice)
-            ├── 02:introducción.fmd (#introducción)
-            ├── 03:situación-inicial.fmd (#situación-inicial)
-            ├── 04:el-modelo-estándar.fmd (#el-modelo-estándar)
-            ├── 05:gravedad.fmd (#gravedad)
-            ├── 06:nuevas-teorías.fmd (#nuevas-teorías)
-            ├── 07:la-teoría-de-cuerdas.fmd (#la-teoría-de-cuerdas)
-            ├── 08:problemas.fmd (#problemas)
-            ├── 09:números-complejos.fmd (#números-complejos)
-            ├── 10:conclusión.fmd (#conclusión)
-            └── 11:bibliografía.fmd (#bibliografía)
+            ├── 01=índice.fmd (#índice)
+            ├── 02=introducción.fmd (#introducción)
+            ├── 03=situación-inicial.fmd (#situación-inicial)
+            ├── 04=el-modelo-estándar.fmd (#el-modelo-estándar)
+            ├── 05=gravedad.fmd (#gravedad)
+            ├── 06=nuevas-teorías.fmd (#nuevas-teorías)
+            ├── 07=la-teoría-de-cuerdas.fmd (#la-teoría-de-cuerdas)
+            ├── 08=problemas.fmd (#problemas)
+            ├── 09=números-complejos.fmd (#números-complejos)
+            ├── 10=conclusión.fmd (#conclusión)
+            └── 11=bibliografía.fmd (#bibliografía)
+
 
 teoria-de-cuerdas.pdf
 ├── Índice (#índice)
@@ -77,14 +78,14 @@ https://github.com/alejandro-vaz/PI-Teoria-de-Cuerdas/tree/main/
 │   └── fmdcompiler.py
 └── step-4/
     ├── .todo
-    ├── 01:índice.fmd
-    ├── 02:introducción.fmd
-    ├── 03:situación-inicial.fmd
-    ├── 04:el-modelo-estándar.fmd
-    ├── 05:gravedad.fmd
-    ├── 06:nuevas-teorías.fmd
-    ├── 07:la-teoría-de-cuerdas.fmd
-    ├── 08:problemas.fmd
-    ├── 09:números-complejos.fmd
-    ├── 10:conclusión.fmd
-    └── 11.bibliografía.fmd
+    ├── 01=índice.fmd
+    ├── 02=introducción.fmd
+    ├── 03=situación-inicial.fmd
+    ├── 04=el-modelo-estándar.fmd
+    ├── 05=gravedad.fmd
+    ├── 06=nuevas-teorías.fmd
+    ├── 07=la-teoría-de-cuerdas.fmd
+    ├── 08=problemas.fmd
+    ├── 09=números-complejos.fmd
+    ├── 10=conclusión.fmd
+    └── 11=bibliografía.fmd
