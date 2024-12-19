@@ -1,30 +1,41 @@
+Project
+├── step-0 = 14/01/2025
+├── step-1 = 14/01/2025
+├── step-2 = 13/01/2025
+├── step-3 = 12/01/2025
+└── step-4 = 11/01/2025
+
+
 project.pdf
-├── portada.pdf
+├── front_page.pdf
 └── main.pdf
     └── main.md
         └── main.fmd
-            ├── índice.fmd
-            ├── introducción.fmd
-            └── conclusión.fmd
+            ├── index.fmd (#index)
+            ├── introduction.fmd (#introduction)
+            └── conclusion.fmd (#conclusion)
 
 
 project.pdf
-├── Índice (#índice)
-├── Introducción (#introducción)
-│   ├── Análisis (#análisis)
-│   └── Resumen (#resumen)
-└── Conclusión (#conclusión)
+├── Index (#index)
+├── Introduction (#introduction)
+│   ├── Development (#development)
+│   └── Summary (#summary)
+└── Conclusion (#conclusion)
 
 
-./project/
+https://github.com/user/project/tree/main/
 ├── .git
 ├── .structure
 ├── step-0/
+│   ├── .todo
 │   └── project.pdf
 ├── step-1/
-│   ├── portada.pdf
+│   ├── .todo
+│   ├── front_page.pdf
 │   └── main.pdf
 ├── step-2/
+│   ├── .todo
 │   ├── main.md
 │   └── images/
 │       ├── 1.png
@@ -32,9 +43,12 @@ project.pdf
 │       ├── 3.png
 │       └── jpegtopng.py
 ├── step-3/
+│   ├── .todo
 │   ├── main.fmd
 │   └── fmdcompiler.py
 └── step-4/
-    ├── índice.fmd
-    ├── introducción.fmd
-    └── conclusión.fmd
+    ├── .todo
+    ├── index.fmd
+    ├── introduction.fmd
+    └── conclusion.fmd
+
