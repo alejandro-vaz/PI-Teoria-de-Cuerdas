@@ -1,0 +1,13 @@
+/h2 Números complejos
+---/n
+
+/h3 Conjuntos numéricos/n
+Para entender qué es un número complejo, revisaremos primero la clasificación de los números./n
+El conjunto numérico más reducido es el de los números naturales (/_\mathbb{N}/_), estos números son los que representan una cantidad entera y positiva. La humanidad empezó a usar estos números hace milenios./n
+Si continuamos con la clasificación nos encontramos a los números enteros (/_\mathbb{Z}/_), que incluyen el cero y los números negativos./n 
+Sin embargo, como resultado de algunas divisiones obteniamos números que no entraban dentro de esta clasificación, a los que se les llamó fraccionarios. El conjunto que incluye los enteros y los fraccionarios se le llamó números racionales (/_\mathbb{Q}/_)./n
+Pero todos esos números no eran suficientes. Cuando se empezó a estudiar los triángulos de forma más exhaustiva, se encontrarón con raíces de números que no tenían una solución que se pudiese expresar con los racionales, que tenían infinitos decimales. A estos números se les llamó irracionales y al conjunto que engloba los racionales y los irracionales se nombró como números reales (/_\mathbb{R}/_)./n
+
+Los números imaginarios (/_\mathbb{I}/_) existen aparte de los números reales, es decir, son una clasificación diferente e independiente. El conjunto de los números reales e imaginarios es denominado números complejos (/_\mathbb{C}/_)./n
+
+/h3 Origen
