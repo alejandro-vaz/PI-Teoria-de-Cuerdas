@@ -2,71 +2,90 @@
 ---/n
 
 /h3 Conjuntos numéricos/n
-Para entender qué es un número complejo, revisaremos primero la clasificación de los números./n
+Para entender qué es un número complejo, revisaremos primero la clasificación numérica. Los números los clasificamos en "conjuntos numéricos," que son grupos de números que tienen alguna característica en común./n
 El conjunto numérico más reducido es el de los números naturales (/_\mathbb{N}/_), estos números son los que representan una cantidad entera y positiva. La humanidad empezó a usar estos números hace milenios./n
-Si continuamos con la clasificación nos encontramos a los números enteros (/_\mathbb{Z}/_), que incluyen el cero y los números negativos./n 
-Sin embargo, como resultado de algunas divisiones obteniamos números que no entraban dentro de esta clasificación, a los que se les llamó fraccionarios. El conjunto que incluye los enteros y los fraccionarios se le llamó números racionales (/_\mathbb{Q}/_)./n
-Pero todos esos números no eran suficientes. Cuando se empezó a estudiar los triángulos de forma más exhaustiva, se encontrarón con raíces de números que no tenían una solución que se pudiese expresar con los racionales, que tenían infinitos decimales. A estos números se les llamó irracionales y al conjunto que engloba los racionales y los irracionales se nombró como números reales (/_\mathbb{R}/_)./n
+Si continuamos con la clasificación nos encontramos a los números enteros (/_\mathbb{Z}/_), que incluyen el cero y los números negativos, surgieron en la antiguedad debido a la gran utilidad que tenía representar cantidades negativas o nulas./n 
+/img /br Conjuntos numéricos./n
+Sin embargo, esos números no bastaban para representar todas las cantidades: como resultado de algunas divisiones obteniamos números que no entraban dentro de esta clasificación, números que estaban entre los números enteros, a los que se les llamó fraccionarios. Al conjunto que incluye los enteros y los fraccionarios se le llamó números racionales (/_\mathbb{Q}/_)./n
+Pero todos esos números no eran suficientes. Cuando se empezó a estudiar los triángulos de forma más exhaustiva en la antigua Grecia, se encontrarón con raíces de números que no tenían una solución que se pudiese expresar con los racionales, que tenían infinitos decimales. A estos números se les llamó irracionales y al conjunto que engloba los racionales y los irracionales se nombró como números reales (/_\mathbb{R}/_)./n
 
-Los números imaginarios (/_\mathbb{I}/_) existen aparte de los números reales, es decir, son una clasificación diferente e independiente. El conjunto de los números reales e imaginarios son los números complejos (/_\mathbb{C}/_)./n
+Los números imaginarios (/_\mathbb{I}/_) existen aparte de los números reales, es decir, son una clasificación diferente e independiente. El conjunto que une los números reales e imaginarios es el conjunto de los números complejos (/_\mathbb{C}/_)./n
 
 /h3 Origen
 
-Nos encontramos con la siguiente función:/n
+Los números imaginarios surgieron del estudio de las funciones cuadráticas. Observa la siguiente función:/n
 /math
-f(x) = x^2-3x+5
+\begin{align*}
+f(x) &= x^2-3x+5
+\end{align*}
 /math/n
-y queremos averiguar sus puntos de corte con el eje de las /_x/_. Para resolver ecuaciones tenemos varios métodos, pero vamos a aplicar el método de la fórmula cuadrática./n
-Esta fórmula nos permite averiguar los puntos de corte mediante la siguiente fórmula:/n
+Vamos a averiguar sus puntos de corte con el eje de las /_x/_. Cuando una función /_f(x)/_ corta con el eje de las /_x/_ significa que /_y/_ (o /_f(x)/_) es igual a /_0/_. Para resolver este tipo de ecuaciones existen varios métodos, pero vamos a aplicar el método de la fórmula cuadrática, que nos permite averiguar los puntos de corte mediante la siguiente fórmula:/n
 /math
-\frac{-b\pm \sqrt{b^2-4ac}}{2a}
+\begin{align*}
+x &= \frac{-b\pm \sqrt{b^2-4ac}}{2a}
+\end{align*}
 /math/n
 donde /_a/_, /_b/_ y /_c/_ son los coeficientes de la función de segundo grado:/n
 /math
-f(x)=ax^2+bx+c
+\begin{align*}
+f(x)&=ax^2+bx+c
+\end{align*}
 /math
 
-Con funciones cuadráticas como la que hemos expuesto anteriormente, la aplicación de la fórmula cuadrática da como resultado un error, ya que el término de la raíz en el numerador es negativo. Nos queda tal que así:/n
+Con funciones cuadráticas como la que hemos expuesto anteriormente, la aplicación de la fórmula cuadrática da como resultado un error si operamos con números reales, ya que el término de la raíz en el numerador es negativo. Nos queda tal que así:/n    
 /math
-\frac{3\pm \sqrt{-11}}{2}
+\begin{align*}
+x &= \frac{3\pm \sqrt{-11}}{2}
+\end{align*}
 /math/n
 
 Eso nos indica que no hay ningún punto de corte con el eje /_x/_. Sin embargo, nosotros podemos seguir operando. Recordando las propiedades de las raíces, una de ellas es que la multiplicación de dos raíces con el mismo índice equivale a una única raíz con ese índice y con los radicandos multiplicados:/n
 /math
-\sqrt[n]{x} \cdot \sqrt[n]{y} = \sqrt[n]{xy}
+\begin{align*}
+\sqrt[n]{x} \cdot \sqrt[n]{y} &= \sqrt[n]{xy}
+\end{align*}
 /math
 
-Podemos entonces ampliar el término /_\sqrt{11}/_ para dejar el negativo en una raíz de la siguiente manera:/n
+Podemos entonces ampliar el término /_\sqrt{-11}/_ para dejar el negativo en una raíz aparte de la siguiente manera:/n
 /math
-x = \frac{3\pm \sqrt{-11}}{2} \\
-x = \frac{3\pm \sqrt{-1 \cdot 11}}{2} \\
-x = \frac{3\pm \sqrt{-1} \cdot \sqrt{11}}{2}
-/math
-
-
-
-Es en este momento en el que los matemáticos del siglo XVII (como René Descartes), sin saber realmente las aplicaciones de los números imaginarios, nombraron a /_\sqrt{-1}/_ como una variable. Fueron Euler y Gauss quienes estandarizaron el uso de la letra /_i/_ para representar a /_\sqrt{-1}/_ en el siglo XVIII.
-
-/img Leonard Euler, autor de la famosa identidad matemática /_e^{i\pi}+1=0/_
-
-/math
-x = \frac{3\pm \sqrt{11}i}{2} \\
-x \approx \frac{3\pm 3.32i}{2} \\
-x \approx 1.5 \pm 1.66i \\
-x_1 \approx 1.5 + 1.66i \quad x_2 \approx 1.5 - 1.66i
+\begin{align*}
+x &= \frac{3\pm \sqrt{-11}}{2} \\
+x &= \frac{3\pm \sqrt{-1 \cdot 11}}{2} \\
+x &= \frac{3\pm \sqrt{-1} \cdot \sqrt{11}}{2}
+\end{align*}
 /math
 
-Volviendo a los conjuntos numéricos, consideramos un número imaginario (/_\mathbb{I}/_) aquel que contiene /_i/_, que puede estar multiplicado por un número real. Los siguientes números son números imaginarios:/n
+
+
+Es en este momento en el que los matemáticos del siglo XVII (como René Descartes), sin saber realmente las aplicaciones de los números imaginarios, nombraron a /_\sqrt{-1}/_ como una variable; Aunque fueron Euler y Gauss quienes estandarizaron el uso de la letra /_i/_ para representar a /_\sqrt{-1}/_ en el siglo XVIII./n
+
+/img /br Leonard Euler, matemático del siglo XVIII.
+
+Al nombrar a /_\sqrt{-1}/_ como una variable estamos pasando a trabajar con números imaginarios y reales, por lo que hemos cambiado nuestro conjunto numérico de trabajo al de los números complejos (/_\mathbb{C}/_). Esto es debido a que en números reales, la raíz de un número negativo no existe, mientras que en números complejos sí.
+
+
 /math
-2i \quad -5i \quad 3.7i \quad -\frac{1}{2}i \quad \sqrt{2}i \quad -\pi i
+\begin{align*}
+x &= \frac{3\pm \sqrt{11}i}{2} \\
+x &\approx \frac{3\pm 3.32i}{2} \\
+x &\approx 1.5 \pm 1.66i \\
+\end{align*} \\
+x_1 \approx 1.5 + 1.66i \qquad x_2 \approx 1.5 - 1.66i 
 /math
 
-El conjunto que engloba los reales y los imaginarios, como dijimos antes, es el conjunto de los números complejos (/_\mathbb{C}/_). Estos aparecen de la siguiente forma:/n
+Consideramos un número imaginario (/_\mathbb{I}/_) a aquel que contiene /_i/_, que puede estar multiplicado por un número real. Los siguientes números son números imaginarios:/n
 /math
-a + bi
+2i \qquad -5i \qquad 3.7i \qquad -\frac{1}{2}i \qquad \sqrt{2}i \qquad -\pi i
 /math
 
-Donde tanto /_a/_ como /_b/_ son números reales. Se denomina a /_a/_ la parte real y a /_bi/_ la parte imaginaria.
+En cambio, los números complejos (/_\mathbb{C}/_), aparecen de la siguiente forma:/n
+/math
+\begin{align*} 
+z &= a + bi 
+\end{align*}
+/math
+
+Se denomina a /_a/_ la parte real y a /_bi/_ la parte imaginaria. /_bi/_, por sí solo, es un número imaginario, mientras que /_a/_ es un número real.
 
 /h3 Operaciones aritméticas
 
@@ -89,10 +108,12 @@ i^2 = \left(\sqrt{-1}\right)^2 = -1
 
 Si queremos multiplicar /_2+3i/_ por /_4-5i/_, tenemos que aplicar esa propiedad:/n
 /math
-(2 + 3i) \cdot (4 - 5i) \\
-8 + 12i - 10i - 15i^2 \\
-8 + 2i + 15 \\
-23 + 2i
+\begin{align*}
+&(2 + 3i) \cdot (4 - 5i) \\
+&= 8 + 12i - 10i - 15i^2 \\
+&= 8 + 2i + 15 \\
+&= 23 + 2i \\
+\end{align*}
 /math
 
 El proceso para dividir es más tedioso. Veamos el siguiente ejemplo:/n
@@ -100,14 +121,16 @@ El proceso para dividir es más tedioso. Veamos el siguiente ejemplo:/n
 \frac{2 + 3i}{4 - 6i}
 /math
 
-Lo que haremos será multiplicar numerador y denominador por la expresión conjugada del denominador, que es el mismo número complejo pero con la parte imaginaria cambiada a su opuesto./n
+Multiplicaremos numerador y denominador por la expresión conjugada del denominador, que es el mismo número complejo pero con la parte imaginaria cambiada a su opuesto./n
 
-/> Multiplicar por el conjugado del denominador nos dejará un numerador complejo pero con un numerador real, ya que un número complejo multiplicado por su conjugado es igual a un número real. Ampliaremos sobre los conjugados y sus propiedades en la próxima sección.
+/> Multiplicar por el conjugado del denominador nos dejará un numerador complejo pero con un denominador real, ya que un número complejo multiplicado por su conjugado es igual a un número real. Ampliaremos sobre los conjugados y sus propiedades en la próxima sección.
 
 /math
-\frac{2 + 3i}{4 - 6i} \cdot \frac{4+6i}{4+6i} \\
-= \frac{-10 + 24i}{52} \\
-\approx -0.19 + 0.46i
+\begin{align*}
+&= \frac{2 + 3i}{4 - 6i} \cdot \frac{4+6i}{4+6i} \\
+&= \frac{-10 + 24i}{52} \\
+&\approx -0.19 + 0.46i
+\end{align*}
 /math
 
 /h3 Módulo y conjugado
@@ -116,41 +139,50 @@ Para imaginarnos como podría ser el módulo de un número complejo (/_z = a + b
 
 De esa forma, calculamos el módulo como:
 /math
-z = a + bi \\
-|z| = |\mathbf{v}| \\
-|z| = \sqrt{a^2 + b^2}
+\begin{align*}
+z &= a + bi \\
+|z| &= |\mathbf{v}| \\
+|z| &= \sqrt{a^2 + b^2}
+\end{align*}
 /math
 
 Gracias a las propiedades de los módulos, el módulo de un número complejo es siempre un número real no negativo./n
 
 El conjugado de un número complejo es similar al de un binomio. Denotamos al conjugado como /_\overline{z}/_ y se define como:/n
 /math
-\overline{z} = a - bi
+\begin{align*}
+\overline{z} &= a - bi
+\end{align*}
 /math
 
-Una propiedad importante del conjugado es que al multiplicarlo por el número complejo del que lo hemos sacado, obtenemos el módulo al cuadrado. Demostración:/n
+Una propiedad de los conjugados es que si a un número complejo cualquiera, lo multiplicamos por su conjugado, obtenemos siempre su módulo al cuadrado (que es un número real no negativo). Demostración:/n
 /math
-z = a + bi \quad \overline{z} = a - bi \quad |z|^2 = a^2 + b^2 \\
-z = a + bi \\
-z \cdot \overline{z} = (a + bi) \cdot (a - bi) \\
-z \cdot \overline{z} = a^2 - abi + abi - b^2i^2 \\
-z \cdot \overline{z} = a^2 + b^2 \\
-z \cdot \overline{z} = |z|^2
+z = a + bi \qquad \overline{z} = a - bi \qquad |z|^2 = a^2 + b^2 \\
+\begin{align*} 
+z &= a + bi \\
+z \cdot \overline{z} &= (a + bi) \cdot (a - bi) \\
+z \cdot \overline{z} &= a^2 - abi + abi - b^2i^2 \\
+z \cdot \overline{z} &= a^2 + b^2 \\
+z \cdot \overline{z} &= |z|^2 
+\end{align*}
 /math
 
-El conjugado también da resultados que nos podrían ser útiles si se lo sumamos o restamos al número original, si se lo sumamos:/n
+El conjugado también da resultados que nos podrían ser útiles si se lo sumamos o restamos al número original; si se lo sumamos:/n
 /math
-z + \overline{z} = (a+bi) + (a-bi) \\
-z + \overline{z} = 2a \\
-a = \frac{z + \overline{z}}{2}
+\begin{align*}
+z + \overline{z} &= (a+bi) + (a-bi) \\
+z + \overline{z} &= 2a \\
+a &= \frac{z + \overline{z}}{2}
+\end{align*}
 /math
 
 Es decir, la parte real de un número complejo la podemos conseguir si le sumamos su conjugado y dividimos todo entre dos. Algo similar podemos hacer si lo restamos:/n
 /math
-z - \overline{z} = (a+bi) - (a-bi) \\
-z - \overline{z} = 2bi \\
-bi = \frac{z - \overline{z}}{2} \\
-b = \frac{z - \overline{z}}{2i}
+\begin{align*}
+z - \overline{z} &= (a+bi) - (a-bi) \\
+z - \overline{z} &= 2bi \\
+bi &= \frac{z - \overline{z}}{2} \\
+\end{align*}
 /math
 
 Consiguiendo así la parte imaginaria.
@@ -166,38 +198,46 @@ En el plano, la suma de dos números complejos se puede representar como la uni�
 
 /h3 Coordenadas polares
 
-Indicar dónde se situa un número en el plano complejo lo podemos hacer de dos formas: con las coordenadas cartesianas /_(a, b)/_, o con las coordenadas polares /_(r, \theta)/_.
+Si queremos determinar dónde se encuentra un número complejo en el plano, tenemos dos formas para hacerlo: con las coordenadas cartesianas /_\mathbf{v} = (a, b)/_, o con las coordenadas polares /_\mathbf{p}=(r, \theta)/_.
 
 En las coordenadas polares, /_r/_ simboliza la distancia al origen del punto mientras que /_\theta/_ especifica la dirección (el ángulo). Podemos pasar de un sistema a otro fácilmente.
 
+/img /br Paso de coordenadas cartesianas a polares.
+
 Para pasar de coordenadas cartesianas a polares primero tenemos que conseguir la distancia del punto al origen, es decir, su módulo. Ya expusimos anteriormente el proceso para conseguirlo./n
 /math
-z = a + bi \\
-|z| = a^2 + b^2 \\
-r = |z|
+\begin{align*}
+z &= a + bi \\
+|z| &= \sqrt{a^2+b^2} \\
+r &= \sqrt{a^2+b^2}
+\end{align*}
 /math/n
-Después, necesitaremos conseguir el ángulo que forma el vector de posición del punto en el plano complejo con el eje real positivo. El argumento de un número complejo es ese ángulo, la función para conseguirlo se denomina /_arg(z)/_:/n
+Después, necesitaremos conseguir el ángulo (/_\theta/_) que forma el vector de posición del punto en el plano complejo con el eje real positivo. El argumento de un número complejo es ese ángulo, la función para conseguirlo se denomina /_arg(a+bi)/_:/n
 /math
-z = a + bi \quad arg(a + bi) = \arctan{\left(\frac{b}{a}\right)} \\
-z = a + bi \\
-arg(z) = arg(a + bi) \\
-arg(z) = \arctan{\left(\frac{b}{a}\right)} \\
-\theta = \arctan{\left(\frac{b}{a}\right)}
+z = a + bi \qquad arg(a + bi) = \arctan{\left(\frac{b}{a}\right)} \\
+\begin{align*}
+z &= a + bi \\
+arg(z) &= arg(a + bi) \\
+arg(z) &= \arctan{\left(\frac{b}{a}\right)} \\
+\theta &= \arctan{\left(\frac{b}{a}\right)}
+\end{align*}
 /math
 
 Por lo que /_z/_ lo podemos expresar como:/n
 /math
-z = a + bi = (a, b) = \left(|z|, \arctan{\left(\frac{b}{a}\right)}\right)
+z = a + bi = (a, b) = \left(\sqrt{a^2+b^2}, \arctan{\left(\frac{b}{a}\right)}\right)
 /math
 
-También podemos hacer el proceso a la inversa. Supongamos que tenemos /_w = (r, \theta)/_, y queremos pasar a coordenadas cartesianas. Para ello usaremos la trigonometría:/n
+También podemos hacer el proceso a la inversa. Supongamos que tenemos /_(r, \theta)/_ representando un número complejo /_w/_ y queremos pasar a coordenadas cartesianas. Para ello usaremos la trigonometría fijándonos en cómo se muestran los números en el plano complejo:/n
 /math
-w = (r, \theta) \\
-a = r\cos \theta \\
-b = r\sin \theta
+\begin{align*}
+w &= (r, \theta) \\
+a &= r\cos \theta \\
+b &= r\sin \theta
+\end{align*}
 /math
 
-Ya que a representa el eje real horizontal y usamos coseno mientras que b representa el eje imaginario vertical por lo que usamos seno. Multiplicamos por el radio para conseguir el punto a esa distancia./n
+Ya que /_a/_ representa el eje real horizontal y usamos coseno mientras que /_b/_ representa el eje imaginario vertical por lo que usamos seno. Multiplicamos por el radio para conseguir el punto a esa distancia./n
 
 Nos queda que el punto final es:
 
