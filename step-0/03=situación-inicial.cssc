@@ -1,0 +1,44 @@
+/h2 Situación inicial
+---/n
+
+/img /br Los cuatro dominios principales de la física moderna. /br Figura 1.
+
+Para entrar en contexto, conviene repasar las fuerzas fundamentales, tenemos cuatro tipos de fuerzas:/n
+    u Electromagnética: actúa entre partículas con carga eléctrica. Es responsable de fenómenos como la electricidad y las interacciones químicas. Tiene un alcance infinito.
+    u Gravitatoria: actua entre partículas con masa y energía. Es la más débil y tiene un alcance infinito.
+    u Nuclear fuerte: mantiene unida a los protones y los neutrones dentro de un átomo. Es muy fuerte pero tiene un alcance finito y corto.
+    u Nuclear débil: es responsable de algunos procesos como la desintegración /_\beta/_ pero tiene un alcance menor incluso que el de la nuclear fuerte.
+
+Por otra parte, para explicar nuestro universo, desde la escala más grande a la más pequeña, tenemos cuatro teorías. La figura 1 resume cuándo usamos cada una de las propuestas para representarlo./n
+
+/h3 Mecánica clásica/n
+La mecánica clásica es el modelo más antiguo que tenemos para describir la realidad física, data desde hace más de dos mil años y nos sirve para describir los sucesos que experimentamos en la vida cotidiana. Hasta el siglo XX, la mecánica clásica comprendía toda la física./n
+Gracias a la mecánica clásica, podemos describir los movimientos (cinética), el comportamiento del calor (termodinámica) y muchos fenómenos eléctricos y magnéticos (electromagnetismo), entre otros fenómenos físicos./n
+Pero esta teoría presentaba varios grandes problemas sin resolver. Uno de ellos es que fallaba al predecir los sucesos del mundo microscópico, como la radiación del cuerpo negro o los espectros de emisión y absorción discontinuos de los átomos./n
+Tampoco describía bien el comportamiento de los objetos a altas velocidades. Según las leyes de Newton de la mecánica clásica, la velocidad de la luz podía ser alcanzada y las leyes físicas podían variar según la inercia del observador (debido a las transformaciones de Galileo)./n
+
+/h3 Mecánica cuántica/n
+La cuántica surgió a principios del siglo XX para explicar la realidad a escalas muy pequeñas, donde la física clásica fallaba./n
+Inicialmente este modelo surgió para corregir el espectro de radiación del cuerpo negro. Las predicciones clásicas de finales del siglo XIX indicaban que la intensidad de la radiación del cuerpo negro siempre aumentaba con su frecuencia, llegando a dar valores muy por encima de los observados en las altas frecuencias. A este fallo de la física clásica se le denominó catástrofe ultravioleta./n
+Max Planck era un físico alemán que estaba trabajando en este problema cuando, como último recurso, se le ocurrió resolver el problema cuantizando la energía. En vez de ser la energía una magnitud continua, que puede tomar cualquier valor; Planck hizo que solo pudiese tomar valores que fuesen múltiplos de una cantidad determinada, /_h/_, y a cada paquete de energía lo llamo cuanto./n
+De esa forma obtuvo un resultado matemático idéntico al experimental y surgió la mecánica cuántica. Con las contribuciones posteriores de muchos otros físicos, consiguieron crear este modelo en el que los sucesos son probabilidades y no podemos conocer ni predecir las magnitudes físicas con total precisión./n
+
+/h3 Mecánica relativista/n
+
+/img /br Campo gravitatorio. /br Figura 2.
+
+Por otro lado, si observamos la estructura del universo a gran escala, podemos describir y predecir con extraordinaria precisión el comportamiendo de las grandes estructuras del universo con la teoría de la relatividad./n
+Cuando nos referimos a la teoría de la relatividad, nos referiremos a la teoría de la relatividad general, a pesar de que hay dos teorías de la relatividad:/n
+    u Teoría de la relatividad especial: propuesta por Albert Einstein en 1905 y que describía el comportamiento de los objetos a alta velocidad. Mantiene como principios que las leyes de la física son iguales para todos los observadores y que la velocidad de la luz es constante.
+    u Teoría de la relatividad general: también propuesta por Einstein, es una extensión de la relatividad especial que tenía en cuenta magnitudes como la aceleración y la gravedad. Es la teoría más completa que tenemos para entender el universo a gran escala./n
+
+En la relatividad general, el espacio y el tiempo actuan como si fuesen una única entidad, es decir, el espacio y el tiempo dependen uno de otro y son indivisibles. Propone que la energía curva el espacio-tiempo de la misma forma que si hiciéramos fuerza en una colchoneta, como en la figura 2./n
+Se interpreta geométricamente como que el espacio-tiempo está curvado, arrastrando así a los objetos, objetos que siguen trayectorias clásicas sobre el espacio-tiempo, y describe que la gravedad es la tendencia de esos objetos a "caer" en el espacio-tiempo.
+
+/h3 Teoría cuántica de campos/n
+
+/img /br Partículas como excitaciones de su campo cuántico. /br Figura 3.
+
+La teoría cuántica de campos combina la relatividad especial con la física cuántica. Considera la presencia de partículas como excitaciones de unos campos cuánticos, que representan la probabilidad de encontrar a ese tipo de partícula en el espacio en un momento determinado./n
+Esta teoría es la base del Modelo Estándar de partículas, donde cada partícula tiene su campo cuántico asociado./n
+Aunque sí que se ha podido combinar la relatividad especial y la cuántica para formar esta teoría, cuando intentamos hacerlo con la relatividad general, todo falla y salen resultados infinitos y absurdos./n

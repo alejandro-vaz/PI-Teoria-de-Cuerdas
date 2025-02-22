@@ -1,0 +1,12 @@
+/h2 Introducción
+---/n
+
+/> Este proyecto de investigación ha sido redactado con FastMarkDown[(1)](#bibliografía), el lenguaje de programación perfecto para hacer y trabajos escritos. Para estandarizar la simbología LaTeX del trabajo, se ha usado los estándares matemáticos anglosajones, intercambiando las comas por los puntos. Puedes acceder a el código fuente del trabajo en su repositorio oficial[(2)](#bibliografía).
+
+/h3 Resumen
+
+/h3 Objetivos
+El objetivo principal de este trabajo es enseñar a los alumnos de primero de bachillerato los fundamentos de la teoría de cuerdas./n
+Para ello, empezaremos realizando este trabajo escrito. Este documento nos servirá de guía para realizar una presentación y un póster sobre los contenidos, explicados de forma sencilla e intuitiva./n
+Durante todo el proceso, utilizaremos únicamente matemáticas sencillas, sin adentrarnos mucho en el cómputo o el significado de variables o fórmulas. Hemos tomado esa decisión porque no podríamos explicar la teoría de cuerdas desde un punto de vista matemático sin enseñar previamente las matemáticas de la relatividad general ni las de la mecánica cuántica./n
+A pesar de ello, hemos intentado incluir las matemáticas en la mayor medida que nos ha dejado un proyecto de investigación de estas características./n

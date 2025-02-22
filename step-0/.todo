@@ -1,2 +1,4 @@
-Take /step-1 pdfs and join them via ILovePDF joiner. This one is the only one valid because it maintains links functionality.
-Rename the resulting pdf and place it in step-0. Additional material may be included here.
+First you must write all document parts. Focus only on writing, you'll have time to focus on error correcting, cleaning or making your project better by styling. At the end of this step you must have a fairly accurate sketch of the project you're working on, meaning major changes (like changing chapters) won't be done further.
+
+1. Write all parts.
+2. Constantly update the .structure file.

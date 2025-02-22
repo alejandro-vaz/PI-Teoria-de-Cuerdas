@@ -1,3 +1,7 @@
-Take step-2 document and convert it to a standalone PDF via princexml with the .less file.
-You should correct all document mistakes, errors or adjustments now.
-You should also create the front page.
+Now that you have written all the parts, you must join them in a single file. Once you have done that, it's time to take the file into the environment, convert it to a .pdf file and print it for error correcting and paraphrasing. You should also build the sources now. Print and correct as many times as needed. 
+
+1. Join all documents in a single file.
+2. Add it to environment and print.
+3. Fix mistakes.
+4. Repeat from 2 as many times as necessary.
+5. Build sources.

@@ -1,54 +1,71 @@
-Project
-├── step-0 = 14/01/2025
-├── step-1 = 14/01/2025
-├── step-2 = 13/01/2025
-├── step-3 = 12/01/2025
-└── step-4 = 11/01/2025
+CSScribe 3.1.3
 
 
-project.pdf
-├── front_page.pdf
+# Factual completion dates
+Teoría de cuerdas
+├── step-0 = --/--/----
+├── step-1 = --/--/----
+├── step-2 = --/--/----
+├── step-3 = --/--/----
+└── step-4 = --/--/----
+
+
+# Compiling hierarchy
+teoría-de-cuerdas.pdf
 └── main.pdf
     └── main.md
-        └── main.fmd
-            ├── index.fmd (#index)
-            ├── introduction.fmd (#introduction)
-            └── conclusion.fmd (#conclusion)
+        └── main.cssc
+             ├── 01=índice.cssc
+             ├── 02=introducción.cssc
+             ├── 03=situación-inicial.cssc
+             ├── 04=el-modelo-estándar.cssc
+             ├── 05=gravedad.cssc
+             ├── 06=la-teoría-de-cuerdas.cssc
+             ├── 07=problemas.cssc
+             ├── 08=conclusión.cssc
+             └── 09=bibliografía.cssc
 
 
-project.pdf
-├── Index (#index)
-├── Introduction (#introduction)
-│   ├── Development (#development)
-│   └── Summary (#summary)
-└── Conclusion (#conclusion)
+# Headers hierarchy
+├── Índice
+├── Introducción
+│   ├── Resumen
+│   └── Objetivos
+├── Situación inicial
+│   ├── Mecánica clásica
+│   ├── Mecánica cuántica
+│   ├── Mecánica relativista 
+│   └── Teoría cuántica de campos
+├── El Modelo Estándar
+│   ├── Origen
+│   ├── Qué es
+│   ├── Hadrones
+│   ├── Leptones
+│   ├── Bosones
+│   └── Limitaciones
+├── Gravedad
+│   ├── Relatividad especial
+│   └── Relatividad general
+├── La teoría de cuerdas
+│   ├── Superficies
+│   ├── Armónicos
+│   ├── Gravitón
+│   ├── D-branas
+│   └── Mundos brana
+├── Problemas
+│   ├── Dimensiones
+│   ├── Bosones
+│   └── Taquiones
+├── Conclusión
+└── Bibliografía
 
 
-https://github.com/user/project/tree/main/
-├── .git
-├── .structure
+# Tree diagram
+https://https://github.com/alejandro-vaz/teoría-de-cuerdas/tree/main/
 ├── step-0/
-│   ├── .todo
-│   └── project.pdf
 ├── step-1/
-│   ├── .todo
-│   ├── front_page.pdf
-│   └── main.pdf
 ├── step-2/
-│   ├── .todo
-│   ├── main.md
-│   └── images/
-│       ├── 1.png
-│       ├── 2.png
-│       ├── 3.png
-│       └── jpegtopng.py
 ├── step-3/
-│   ├── .todo
-│   ├── main.fmd
-│   └── fmdcompiler.py
-└── step-4/
-    ├── .todo
-    ├── index.fmd
-    ├── introduction.fmd
-    └── conclusion.fmd
+├── step-4/
+└── .structure
 

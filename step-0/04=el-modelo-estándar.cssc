@@ -1,0 +1,81 @@
+/h2 El Modelo Estándar
+---/n
+/h3 Origen/n
+A mediados del siglo XX, los físicos empezaron a enfretar dificultades debido a la gran cantidad de nuevas partículas que se estan descubriendo. A este fenómeno se le dio el nombre de "zoología de partículas," y se intensificó de forma alarmante en la década de los 50./n
+Los físicos de aquel entonces estaban desconcertados. Las teorías de aquel entonces no explicaban la gran cantidad de partículas que estaban encontrando, ni tampoco que tuvisen unas propiedades aparentemente arbitrarias./n
+La razón detrás de la zoología de partículas era desconocida en aquel entonces, pero muchos físicos empezaron a intuirla: ¿y si las partículas que estamos detectando no son fundamentales?/n
+/> Cuando en física nos referimos a una partícula, queremos referirnos a una partícula fundamental, una partícula que no está conformada por ninguna más pequeña. Un grano de arena no lo podríamos considerar una partícula, ya que está compuesto por unidades más pequeñas, como pueden ser los átomos./n
+Los físicos de la época se preguntaban si las partículas que acababan de descubrir eran realmente partículas fundamentales, o simplemente eran uniones, grupos, de partículas más pequeñas./n
+
+/img /br Premio Nobel de física de 1979. /br Figura 4.
+
+¿Era el neutrón una partícula fundamental? ¿Y el electrón? ¿El barión lambda? ¿Lo será el mesón /_\phi/_? Los científicos tuvieron que esperar 20 años más para obtener respuestas definitivas./n
+Durante esos 20 años surgieron tres avanzes que hicieron posible que se formulase el Modelo Estándar:/n
+    o En la década de 1960, los físicos teóricos Sheldon Glashow, Abdus Salam y Steven Weinberg (premios Nobel, figura 4) introdujeron la teoría electrodébil, que unificaba la fuerza electromagnética y la débil en una única teoría que explicaba ambas.
+    o En 1964 se introdujo el concepto de cuark, proponiendo que algunas partículas como los neutrones y los protones estaban compuestas por ellas. Inicialmente los cuarks eran solo herramientas matemáticas, pero más tarde se verificó su existencia.
+    o En 1973 se formuló la cromodinámica cuántica (QCD, por sus siglas en inglés), que explicaba las interacciones entre cuarks mediada por la fuerza fuerte./n
+Al año siguiente, en 1974, el físico italiano Luciano Maiani reunió la QCD y la teoría electrodébil en lo que fue llamado "El Modelo Estándar de física de partículas." El Modelo Estándar unifica tres de las cuatro fuerzas fundamentales, pero la gravedad todavía queda excluida./n
+
+/h3 Qué es/n
+El Modelo Estándar es un marco teórico que describe con precisión las partículas fundamentales y sus interacciones. Hablaremos ahora de sus partículas y características. Puedes observar su representación gráfica en la figura 5./n
+
+/img /br Partículas del Modelo Estándar. /br Figura 5.
+
+La primera impresión que da es que hay muchas partículas, pero en realidad son solo unas pocas con diferentes variantes./n
+Lo primero que llama la atención es que hay dos grandes columnas. En la primera columna se encuentran los fermiones; los fermiones conforman toda la materia, están organizados en tres generaciones y tienen espín semientero (/_\pm 1/2/_)./n
+Las tres generaciones de fermiones son en realidad, idénticas. Lo único que varía entre las generaciones es la masa, o energía, de cada partícula: cuanto mayor es la generación, mayor es la energía./n
+La masa en física de partículas se mide en /_eV/c^2/_, electronvoltios partido de la velocidad de la luz al cuadrado. El electronvoltio en realidad es una unidad de energía, correspondiente a la energía adquirida por un electrón al ser acelerado desde el reposo mediante una diferencia de potencial de un voltio en el vacío. Como ya sabemos que Einstein introdujo en su teoría de la relatividad especial que
+
+/math
+\begin{align*}
+E &= m \cdot c^2 \\
+m &= \frac{E}{c^2}
+\end{align*}
+/math
+
+Si dividimos la energía entre la velocidad de la luz al cuadrado nos quedan unidades de masa./n
+
+/h3 Hadrones/n
+Nos centraremos ahora en los cuarks de la primera generación, ya que conforman la mayoría de la materia visible. Los datos de la masa parecen arbitrarios para todas las partículas y es algo a lo que todavía no se le ha dado sentido en la física moderna, por lo que no nos detendremos en ello./n
+Mira los datos de la carga de los cuarks /_u/_ y /_d/_. Considerando que para formar una partícula no fundamental la carga tiene que ser un número entero, ¿que pasaría si juntásemos un cuark /_u/_ y dos /_d/_? Tendríamos una partícula resultante no fundamental con carga nula y que tuviese una masa de /_11.56\, MeV/c^2/_. Se parece sospechosamente mucho al neutrón, pero tiene una masa /_81/_ veces menor./n
+En realidad, esta partícula sí que es el neutrón. Su masa restante es fruto de la interacción entre gluones, las partículas que median la fuerza fuerte y que unen los cuarks. Algo similar pasa con el protón, al juntar dos cuarks /_u/_ y uno /_d/_./n
+Además de los fermiones, cada fermión tiene su contraparte antipartícula. Todos los y los leptones y cuarks tienen su partícula de antimateria. Es decir, tendremos un anticuark /_u/_, otro /_d/_ y así. A las antipartículas las representamos poniendo un guión encima de la partícula original: /_\overline{u}/_, /_\overline{d}/_... La única excepción a esta norma es el positrón: como el electrón es /_e^-/_, el positrón se denomina /_e^+/_./n
+Las antipartículas tienen las mismas propiedades que las partículas originales pero con el signo de la carga invertido. Es decir, un /_\overline{d}/_ tiene carga /_+1/3/_./n
+Cuando una partícula entra en contacto con su contraparte antipartícula (no cualquier antipartícula, solo la suya correspondiente), ambas se aniquilan y liberan toda su energía. Eso significa que sí que podemos juntar partículas y antipartículas siempre que no existan pares partícula-antipartícula./n
+
+/img /br Clasificación de hadrones. /br Figura 6.
+
+Podríamos, por ejemplo, juntar un cuark /_u/_ y otro /_\overline{d}/_ para formar una partícula no fundamental con carga /_+1/_ conocida como mesón /_\pi ^+/_. Pero no podríamos juntar unos cuarks /_u/_ y /_\overline{u}/_ ya que se aniquilarían entre sí./n
+Se pueden hacer combinaciones también con los cuarks de segunda y tercera generación, pero las partículas resultantes suelen ser muy inestables y pesadas. Un solo cuark /_t/_ pesa lo mismo que un átomo de astato (/_At/_), presente al final del periodo seis de la tabla periódica./n
+Los cuarks también tienen colores, descritos por la cromodinámica cuántica, pero no profundizaremos en ello./n
+A las partículas resultantes de la combinación de cuarks se les denomina hadrones, que se clasifican en mesones si tienen dos cuarks y bariones si tienen tres (figura 6)./n
+
+/h3 Leptones/n
+Los leptones, por sí solos, son fermiones que no se combinan para dar otras partículas. Podemos diferenciar dos tipos de partículas, un tipo en cada fila: los derivados del electrón y los neutrinos./n
+Todos derivados del electrón tienen carga /_-1/_ y propiedades similares. El más reconocible de todos ellos es el electrón, presente en todos los átomos estables, aunque las otras dos generaciones, que son más difíciles de encontrar en la naturaleza, también tienen un papel en el Universo./n
+Los muones son conocidos por tener una gran capacidad de penetración en la materia, por lo que se usan principalmente para obtener imágenes de formaciones rocosas. El tauón es una partícula rara pero con propiedades sorprendentes, ya que es increíblemente inestable, y al desintegrarse, debido a su alta masa, produce la mayoría de las veces muones /_\pi ^-/_ y /_\pi ^0/_./n
+Los neutrinos, en cambio, tienen propiedades radicalmente diferentes. Los neutrinos son partículas que interactúan muy poco. Estas partículas son afectadas únicamente por la fuerza débil, que tiene un alcanze muy corto, por lo que raramente tienen la posibilidad de interactuar con otras./n
+Los neutrinos además sufren de un extraño fenómeno denominado como la "oscilación de neutrinos." En el caso de los neutrinos, un /_v_e/_ puede cambiar repentinamente a ser otro tipo de neutrino, como el /_v_\tau/_. Este fenómeno ocurre según el neutrino se desplaza por el espacio-tiempo./n
+Las oscilaciones de los neutrinos implican que estos tienen masa, una característica que el Modelo Estándar no predecía. Hoy en día sabemos experimentalmente que los neutrinos tienen masa, pero desconocemos cuánta tienen ni cómo la adquieren./n
+El neutrino es la única partícula fundamental que no consigue su masa mediante el mecanismo de Higgs, como veremos más tarde./n
+
+/h3 Bosones/n
+
+/img /br Desintegración del bosón /_Z^0/_ en un par electrón-positrón. /br Figura 7.
+
+Los bosones son las partículas mediadoras de las interacciones y tienen espín entero. Cada una de las fuerzas fundamentales tiene su partícula (o partículas) mediadoras:/n
+    u Fuerza electromagnética: el fotón, /_\gamma/_, que no tiene masa ni carga. La radiación electromagnética está compuesta por fotones.
+    u Fuerza fuerte: el gluón, /_g/_. Los cuarks en los hadrones se unen mediante estas partículas, y de ellos proviene la mayoría de su masa (a pesar de que los gluones en sí no tienen masa ni carga).
+    u Fuerza débil: los bosones /_Z^0/_, /_W^-/_ y /_W^+/_, que tienen masa y carga. La gran masa de estos bosones limita en gran medida su alcance, y por tanto, el alcance de la fuerza./n
+También tenemos un bosón diferente, el bosón de Higgs (/_H/_), descubierto en 2012. Este bosón no media ninguna fuerza, sino que se encarga de dar a las partículas masa mediante el mecanismo de Higgs./n
+El mecanismo de Higgs le da masa a todas las partículas. Se interpreta como que las partículas interactúan con el campo de Higgs obteniendo así su masa. Todas las partículas obtienen su masa así, excepto los neutrinos. Se desconoce a día de hoy cómo los neutrinos adquieren su masa./n
+
+/h3 Limitaciones/n
+Aparte de la incertidumbre del mecanismo que da la masa a los neutrinos, tenemos una cuestión más desconcertadora en el Modelo Estándar:
+La fuerza electromagnética es mediada por el /_\gamma/_, la fuerza fuerte lo es por el /_g/_ y la fuerza débil por los bosones /_Z^0/_ y /_W^{\pm}/_; ¿qué pasa con la gravedad? ¿La fuerza gravitatoria no tiene un bosón?/n
+Conocemos la forma en la que la gravedad actúa a gran escala gracias a la relatividad general, pero a escala cuántica tiene que haber una partícula que medie la fuerza, ¿no? Todas las fuerzas fundamentales tienen su partícula mediadora, por lo que la gravedad no debería ser una excepción./n
+Un argumento que apoya la existencia de esta partícula misteriosa es la reciente detección de ondas gravitacionales. Desde su primera detección en 2015, los observatorios LIGO y Virgo han identificado ondas gravitacionales provocadas por eventos cósmicos en múltiples ocasiones./n
+Otro argumento a favor es que las ecuaciones de campo de la relatividad general que indican cómo se comporta el espacio-tiempo pueden ser justificadas considerando que la gravedad es mediada por un bosón de espín /_2/_./n
+Detectar la partícula mediadora de la gravedad es muy difícil, ya que la gravedad es la más débil de todas las fuerzas. A esta partícula mediadora de la gravedad se la llamó gravitón y es necesaria que exista para entender la gravedad a una escala pequeña./n
+Aunque no sepamos de su existencia experimental, podemos deducir algunas propiedades del gravitón. Como se propaga a la velocidad de la luz, sabemos que su masa tiene que ser cero, o al menos muy cercana, mucho menor incluso que la de los neutrinos. También podemos predecir que tiene carga cero, ya que si no interactuaría con otras partículas cargadas, y ese comportamiento no lo hemos detectado./n
+¿El Modelo Estándar falla? ¿O es que el gravitón no existe? Para entender por qué el gravitón y la relatividad general son incompatibles tendremos que entender previamente que dice la teoría de la relatividad./n

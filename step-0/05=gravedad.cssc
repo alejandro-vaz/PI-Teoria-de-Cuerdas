@@ -1,0 +1,70 @@
+/h2 Gravedad
+---/n
+La fuerza gravitatoria es descrita en física mediante la relatividad general, teoría propuesta por Albert Einstein en 1915. Esta teoría solo funciona a gran escala, donde las magnitudes actúan como si no estuviesen cuantizadas y fuesen continuas./n 
+Empezaremos respondiendo una pregunta aparentemente sencilla: ¿Por qué la velocidad de la luz es constante? Es una pregunta bastante interesante que plantearse, ¿cómo lo sabemos? La realidad es que eso ya se sabía mucho antes de que Einstein propusiese ninguna de las teorías de la relatividad./n
+Las ecuaciones de Maxwell que describían el comportamiento de la fuerza electromagética a escalas no-cuánticas sugerían implícitamente que la velocidad de la luz debería ser constante./n
+Esto se debe a que al despejar /_c/_ (la velocidad de la luz) en una combinación de la ley de Faraday y la de Ampère-Maxwell, nos quedaba únicamente que/n
+/math
+\begin{align*}
+c &= \frac{1}{\sqrt{\varepsilon _0 \cdot \mu _0}}
+\end{align*}
+/math/n
+siendo /_\varepsilon _0/_ la permitividad eléctrica del vacío y /_\mu _0/_ la permeabilidad magnética en el vacío. Con esos valores medidos experimentalmente:/n
+/math
+\begin{align*}
+\varepsilon _0 &= 8.8541878176 \cdot 10^{-12} s/(m \cdot \Omega) \\
+\mu _0 &= 4\pi \cdot 10^{-7}s \cdot \Omega
+\end{align*}
+/math/n
+podemos calcular la velocidad de la luz de forma precisa: /_299\,792\,458\,m/¬s/_./n
+
+/h3 Relatividad especial/n
+Einstein, al formular su teoría de la relatividad especial, introdujo únicamente dos postulados:/n
+    o /_c/_ es una constante universal.
+    o Las leyes de la física son iguales para todos los observadores./n
+Ya hemos explicado el porqué del primer postulado, y el segundo postulado lo introdujo mediante unas transformaciones que hiciesen que eso se cumpliese./n
+Para que las leyes de la física fueran las mismas para todos los observadores, las antiguas transformaciones de Galileo, como la de la suma de velocidades:/n
+/math
+\begin{align*}
+f &= u + v
+\end{align*}
+/math/n
+tenían que ser sustituidas por otras. Ya que estas conllevaban a paradojas como la paradoja de la adición de velocidades; que ocurre porque /_f/_ puede ser mayor que /_c/_ sin que /_u/_ ni /_v/_ excedan /_c/_./n
+Hendrik Antoon Lorentz era un físico neerlandés que desarrollo el tipo de transformaciones que llevan su nombre: "transformaciones de Lorentz." Estas ecuaciones matemáticas describen cómo las medidas de espacio y tiempo se relacionan entre dos observadores en movimiento relativo uniforme./n
+En las transformaciones se introduce un factor denominado "factor de Lorentz" representado con la letra griega /_\gamma/_, que se define como:/n
+/math
+\begin{align*}
+\gamma &= \frac{1}{\sqrt{1-\frac{v^2}{c^2}}}
+\end{align*}
+/math/n
+y aplica a cualquier objeto en función de su velocidad./n
+El espacio y el tiempo pasan a ser interdependientes con las transformaciones de Lorentz, y las siguientes fórmulas describen cómo pasar de un sistema de referencia a otro:/n
+/math
+\begin{align*}
+t´ &= \gamma \left(t - \frac{vx}{c^2}\right) \\
+x´ &= \gamma \,(x - vt) \\
+t &= \gamma \, t´
+\end{align*}
+/math/n
+donde la adición de velocidades ya no es la adición clásica, sino una transformación que tiene en cuenta los efectos relativistas:/n
+/math
+\begin{align*}
+f &= \frac{u + v}{1 + \frac{uv}{c^2}}
+\end{align*}
+/math/n
+Este tipo de transformación impide que /_f/_ exceda /_c/_ siempre que ni /_u/_ ni /_v/_ la excedan./n
+/> Para una explicación más detallada sobre la relatividad especial, puedes consultar este proyecto de investigación./n
+
+/h3 Relatividad general/n
+La relatividad general, como dijimos antes, es una expansión de la relatividad especial. En ella, la gravedad no se describe como una fuerza, sino como la manifestación de un espacio-tiempo curvo./n
+El espacio-tiempo es la entidad matemática que describe cómo cambia el espacio en el tiempo y cómo el espacio cambia la percepción del tiempo. La teoría de la relatividad general se basa en tres postulados:
+    o El principio de equivalencia: establece que en regiones suficientemente pequeñas del espacio, un sistema en caída libre es indistinguible de uno inercial.
+    o El espacio-tiempo tiene cuatro dimensiones (tres espaciales y una temporal) y puede curvarse. Esta curvatura determina cómo se mueven los objetos por el espacio en el tiempo, ya que sobre el espacio-tiempo los objetos siguen trayectorias geodésicas. La curvatura local del espacio-tiempo depende de la energía presente en las proximidades.
+    o El espacio-tiempo se comporta en función a las ecuaciones de campo de Einstein. Esas fórmulas explican el comportamiento del Universo y han sido confirmadas por una multitud de experimentos y observaciones con excepcional precisión a lo largo del último siglo./n
+
+La relatividad general es una teoría que se basa en la geometría. Einstein interpretaba el espacio-tiempo como un campo (no cuántico) que cubría todo el espacio./n
+Él no pensaba que hubiese ninguna partícula asociada a este campo, como el gravitón; pensaba que el espacio-tiempo es una cualidad inherente de nuestro Universo, mientras que las interacciones a nivel cuántico eran fuerzas./n
+Es decir, la gravedad no era una fuerza sino una característica intrínseca de nuestro Universo. Además, la mecánica cuántica operaba con probabilidades y cantidades discretas, con un enfoque muy diferente al de la relatividad./n
+¿Por qué no podemos cuantizar la relatividad general? Hacerlo parecería una tarea sencilla, pero al hacerlo ocurren diversos problemas:/n
+    u Superposición del espacio-tiempo: cuando una partícula cuántica está en dos estados excluyentes al mismo tiempo, se dice que se encuentra en una superposición de estados, y lo mismo le ocurre a su campo cuántico asociado. Sin embargo, no se tiene constancia de que el espacio-tiempo se encuentre en una superposición de estados, ya que esto contradeciría la naturaleza bien definida y verificada que presenta el espacio-tiempo.
+    u Si tratamos al campo gravitatorio como un campo cuántico convencional, las teorías dan resultados matemáticos infinitos e inconsistentes. La gravedad no ha podido ser renormalizada debido a que las interacciones entre gravitones presentan un comportamiento no lineal./n

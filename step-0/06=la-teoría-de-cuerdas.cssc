@@ -1,0 +1,42 @@
+/h2 Teoría de cuerdas
+---/n
+La teoría de cuerdas es una de las más prometedoras propuestas que pretenden determinar el comportamiento de la gravedad cuántica./n
+Su principal premisa es muy sencilla: las partículas ya no serán puntos indivisibles, sino que serán cuerdas, es decir, tendrán tamaño aunque sea muy pequeño./n
+/h3 Superficies/n
+
+/img /n
+
+La figura adyacente explica a qué nos referimos con cuerda. Todo en principio sigue exactamente igual, solo que la partícula ha pasado de ser un punto sin dimensión, infinitamente pequeño, a una cuerda con cierto tamaño./n
+Esta cuerda, que representa una partícula, la tratamos como una sola entidad. Es decir, la cuerda entera tendrá unos parámetros que la definan (y que determinarán qué tipo de partícula es) pero no diferenciamos entre una parte y otra de la misma cuerda: no existe nada más pequeño que la cuerda en sí que no sea el propio espacio-tiempo./n
+Que hayamos convertido la partícula de un punto a una cuerda tiene repercusiones al nivel de interacciones. La principal de ellas es que cuando dos partículas, bosones o fermiones, interactúan; transcurre un tiempo en el que las partículas se están fusionando o emitiendo./n
+
+/img
+
+Este tiempo se debe a que las partículas ahora no son puntos adimensionales, sino que trazan superficies al moverse. Al trazar superficies, lo que antes considerábamos emitir o recibir una partícula mediadora, ahora requiere que poco a poco, las cuerdas se vayan uniendo, requiriendo tiempo./n
+Puede parecer que eso no cambia mucho las cosas, pero es de especial importancia con el caso del gravitón, como veremos después./n
+También diferenciamos entre dos tipos de cuerdas:/n
+    u Cuerdas cerradas: como la postulada en la imagen superior. Son bidimensionales y trazan una superficie dentro de sí.
+    u Cuerdas abiertas: difieren en las cerradas en que han sido "cortadas," y no trazan superficies./n
+/h3 Armónicos/n
+Las cuerdas pueden vibrar. Estos modos de vibración, que serán armónicos de la longitud de la cuerda, junto con el tipo de cuerda que son determinan sus propiedades (su masa, su carga, su espín...) y por ello el tipo de partícula./n
+Las fórmulas para tratar estas cuerdas de forma cuantizada con sus armónicos son un tanto complejas, pero el proceso lógico es el siguiente:/n
+No podemos tratar las cuerdas como cuerdas en mecánica clásica, por lo que las tenemos que cuantizar. Al cuantizarlas, estamos pasando a tratar con unas fórmulas que modelan la cuerda y facilitan su estudio. Una de ellas es la acción de Polyakov:/n
+/math
+\begin{align*}
+S_P &= - \frac{1}{4\pi \alpha'} \int d^2 \sigma \sqrt{-h} h^{ab} \partial_a X^\mu \partial_b X_\mu
+\end{align*}
+/math/n
+Posteriormente se explota la simetría conforme y se imponen algunas restricciones como las ligaduras de Virasoro./n
+Una vez hemos hecho eso, podemos extraer el espectro de partículas a partir de los modos de vibración de esa cuerda./n
+/h3 Gravitón/n
+La teoría de cuerdas predice el gravitón como una partícula fundamental. El gravitón se describe como una cuerda cerrada actuando como bosón./n
+Eso quiere decir que hemos cuantizado la gravedad./n
+/> En realidad, aunque sí que hemos conseguido describir la gravedad a efectos cuánticos, el consenso científico no lo considera como tal. Esto se debe a que la teoría de cuerdas no representa nuestro Universo de forma precisa, como veremos en el próximo capítulo./n
+El gravitón, además, actúa de manera extraña, algunas predicciones de sus propiedades apuntan a que:/n
+    u Su espín debería ser /_2/_, ya que la fuerza afecta el tensor de rango /_2/_ energía-momento. Eso quiere decir que la gravedad interactúa con la energía (dándole energía potencial gravitatoria a las partículas) y el momento (acelerando los cuerpos hacia el centro de gravedad).
+    u No tiene masa, por lo que se propaga a la velocidad de la luz, aunque no se ha comprobado experimentalmente ya que todavía no se ha detectado ningún gravitón. Aún así, las últimas observaciones predicen que si el gravitón tuviese masa, sería inferior a /_1.2 \cdot 10^{-22}/_.
+    u Es muy difícil de detectar. Este fragmento del artículo de Wikipedia sobre el gravitón explica por qué y cómo de difícil es: «La detección inequívoca de gravitones individuales, aunque no está prohibida por ninguna ley fundamental, es imposible con cualquier detector físicamente razonable. La razón es la extremadamente baja sección transversal para la interacción de los gravitones con la materia. Por ejemplo, un detector con la masa de Júpiter y una eficiencia del 100%, situado en una órbita cercana a una estrella de neutrones, sólo podría observar un gravitón cada 10 años, incluso en las condiciones más favorables.»/n
+Un problema que sí que resuelve la teoría de cuerdas relacionado con el gravitón es el que presentamos al final del capítulo Gravedad./n
+Decíamos que la gravedad no había podido ser renormalizada porque los gravitones interactuaban de forma no lineal. Pero tratando al gravitón como una cuerda, sí que se pueden reformular los cálculos para dar lugar a resultados coherentes./n
+/h3 D-branas/n
+/h3 Mundos brana/n
