@@ -1,4 +1,4 @@
-CSScribe 3.1.3
+CSScribe 3.2.1
 
 
 # Factual completion dates
@@ -20,7 +20,7 @@ teoría-de-cuerdas.pdf
              ├── 03=situación-inicial.cssc
              ├── 04=el-modelo-estándar.cssc
              ├── 05=gravedad.cssc
-             ├── 06=la-teoría-de-cuerdas.cssc
+             ├── 06=teoría-de-cuerdas.cssc
              ├── 07=problemas.cssc
              ├── 08=conclusión.cssc
              └── 09=bibliografía.cssc
@@ -46,12 +46,10 @@ teoría-de-cuerdas.pdf
 ├── Gravedad
 │   ├── Relatividad especial
 │   └── Relatividad general
-├── La teoría de cuerdas
+├── Teoría de cuerdas
 │   ├── Superficies
 │   ├── Armónicos
-│   ├── Gravitón
-│   ├── D-branas
-│   └── Mundos brana
+│   └── Gravitón
 ├── Problemas
 │   ├── Dimensiones
 │   ├── Bosones
