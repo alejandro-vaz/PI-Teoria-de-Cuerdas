@@ -175,7 +175,7 @@ siendo /_\varepsilon _0/_ la ·permitividad eléctrica del vacío· y /_\mu _0/_
 /math
 \begin{align*}
 \mu _0 &= 4\pi \cdot 10^{-7} \, H/m \\
-\varepsilon _0 &= 8.8541878176 \, F/m \\
+\varepsilon _0 &= 8.8541878176 \cdot 10^{-12} \, F/m \\
 \end{align*}
 /math/n
 podemos calcular la velocidad de la luz de forma precisa: /_299\,792\,458\,m/¬s/_./n
